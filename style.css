@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+.div{
+    background-color: rgb(130, 211, 147);
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+    width: 550px;
+    height: 230px;
+    align-items: center;
+}
+.title{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.btn{
+    padding: 10px 15px;
+    background-color: black;
+    color: antiquewhite;
+    display: block;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.text{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.input{
+    border-style: none; 
+    border: none;
+    outline: none;
+    background-color: transparent;
+    margin-top: 15px;
+    width: 430px;
+}
+.icon{
+    margin-top: 15px;
+    color: gray;
+    /* margin-left: 100px;
+    display: flex; */
+}
